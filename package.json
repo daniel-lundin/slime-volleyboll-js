@@ -1,0 +1,22 @@
+{
+  "name": "slime-volleyboll-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "game.js",
+  "scripts": {
+    "gh-page": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniel-lundin/slime-volleyboll-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniel-lundin/slime-volleyboll-js/issues"
+  },
+  "homepage": "https://github.com/daniel-lundin/slime-volleyboll-js#readme",
+  "devDependencies": {
+    "gh-pages": "^1.0.0"
+  }
+}
